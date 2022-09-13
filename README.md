@@ -6,3 +6,6 @@ Fard++ is an object based programming language made from C++.
 
 ## Creator
 Aiden Pike
+
+## Inspired by
+The [Copper programming language](https://github.com/copper-lang/copper) by [@kryllyxofficial01](https://github.com/kryllyxofficial01)
