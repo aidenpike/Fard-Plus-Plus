@@ -9,13 +9,13 @@ int main(){
     ifstream fard;
 
     //EXTREMELY IMPORTANT:
-    cout << "fard" << endl;
+    cout << "fard" << endl << endl;
 
-    fard.open("fard.fpp",ios::in);
+    fard.open("fard.frd",ios::in);
 
     if (fard.is_open()){
-        cout << ".fpp file found!" << endl;
+        cout << ".frd file found!" << endl;
     }
     else
-        cout << ".fpp file not found." << endl;
+        cout << ".frd file not found." << endl;
 }
